@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "category": "Category 1",
+        "featured": true,
+        "question": "How long did it take you to make this?",
+        "answer": "Only a few hours. It felt like 3 forevers!"
+    },
+    {
+        "id": 2,
+        "category": "Category 2",
+        "featured": false,
+        "question": "Is this project going on your resume?",
+        "answer": "It is, in fact! I'm excited for people to see it. I think it's pretty cool."
+    },
+    {
+        "id": 3,
+        "category": "Category 1",
+        "featured": true,
+        "question": "Someone should hire you for sure?",
+        "answer": "Not really a question... but I appreciate it!"
+    },
+    {
+        "id": 4,
+        "category": "Category 3",
+        "featured": false,
+        "question": "Who would benefit most from this FAQ Hub?",
+        "answer": "Anyone who has more than one FAQ page with multiple categories. It wouldn't be too hard to modify to meet their specific needs."
+    },
+    {
+        "id": 5,
+        "category": "Category 2",
+        "featured": true,
+        "question": "Someone should seriously hire you?!",
+        "answer": "Oh, hey again! And yes, I agree!"
+    },
+    {
+        "id": 6,
+        "category": "Category 1",
+        "featured": false,
+        "question": "Are you running out of dummy questions to write?",
+        "answer": "I am wishing I only wrote questions up to this point, yes."
+    },
+    {
+        "id": 7,
+        "category": "Category 3",
+        "featured": false,
+        "question": "Why don't you just delete the rest and stop here?",
+        "answer": "Because I need it to be an even 10 so I can sleep at night."
+    },
+    {
+        "id": 8,
+        "category": "Category 2",
+        "featured": true,
+        "question": "Are you not going to change the categories?",
+        "answer": "I think the user gets the point of those."
+    },
+    {
+        "id": 9,
+        "category": "Category 1",
+        "featured": false,
+        "question": "Question 9?",
+        "answer": "Answer 9"
+    },
+    {
+        "id": 10,
+        "category": "Category 1",
+        "featured": false,
+        "question": "Are you seriously not going to change Question 9?",
+        "answer": "Answer 10"
+    }
+]
